@@ -1,0 +1,9 @@
+{
+  "name": "starter-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple HTML/CSS/JS starter template",
+  "scripts": {
+    "start": "npx --yes serve . -p 5173"
+  }
+}
